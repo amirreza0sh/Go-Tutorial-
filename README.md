@@ -1,6 +1,6 @@
-# Go-Tutorial-
+# Go-Tutorial
 In this repository, Go (Golang) code samples are provided from beginner to advanced levels, so you can use them as a learning resource.
-
+enjoy the source and biuld your first Go file for write code :)
 ```
 # This workflow will build a golang project
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-go
